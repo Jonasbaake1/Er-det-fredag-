@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+}
+
+.headline	{
+	position: absolute;
+	color: lightgray;
+	font-family: "Times New Roman", serif;
+	top: 100px;
+	left: 350px;
+	font-size: 70px;
+	width: 400px;
+}
+
+.para {
+	position: absolute;
+	color: lightgreen;
+	font-family: "Verdana", sans-serif;
+	top: 300px;
+	left:500px;
+	font-size: 70px;
+}
